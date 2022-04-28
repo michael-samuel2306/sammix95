@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sammix95
 - 👀 I’m interested in Data Science, Machine Learning and Artificial intelligence
-- 🌱 I’m currently learning Data Science and Machine Learning Engineering
-- 💞️ I’m looking to collaborate on Projects
+- 🌱 I’m currently learning Data Science and Machine Learning Engineering with Python
+- 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me lordbizbuzz@gmail.com
 
 <!---
